@@ -2,7 +2,7 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-  <a href="https://github.com/jerichd4c/ai-practices-cohen/tree/main/car-business-rpa">
+  <a href="https://github.com/jerichd4c/ai-practices/tree/main/car-business-rpa">
     <img src="https://raw.githubusercontent.com/jerichd4c/ReflexJDBC/main/python_logo.svg" alt="Logo" width="80" height="80">
   </a>
 </div>
@@ -78,11 +78,11 @@ To get a local copy up and running, follow these steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/jerichd4c/ai-practices-cohen.git
+   git clone https://github.com/jerichd4c/ai-practices.git
    ```
 2. Navigate to the project directory
    ```sh
-   cd ai-practices-cohen/car-business-rpa
+   cd ai-practices/car-business-rpa
    ```
 3. Create and activate virtual environment
    ```powershell
