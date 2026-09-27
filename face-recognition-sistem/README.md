@@ -2,7 +2,7 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-  <a href="https://github.com/jerichd4c/ai-practices-cohen/tree/main/face-recognition-sistem">
+  <a href="https://github.com/jerichd4c/ai-practices/tree/main/face-recognition-sistem">
     <img src="https://raw.githubusercontent.com/jerichd4c/ReflexJDBC/main/python_logo.svg" alt="Logo" width="80" height="80">
   </a>
 </div>
@@ -78,8 +78,8 @@ Key Features:
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/jerichd4c/ai-practices-cohen.git
-   cd ai-practices-cohen/face-recognition-sistem
+   git clone https://github.com/jerichd4c/ai-practices.git
+   cd ai-practices/face-recognition-sistem
    ```
 2. Create and activate virtual environment
    ```powershell
