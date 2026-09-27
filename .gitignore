@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+
+# Secrets / local env files
+.env
+*.env
+.env.*
+!*.env.sample
+whatsapp_config.env
+
+# Generated outputs
+car-business-rpa/outputs/
+receipt-manager/receipts.db
+receipt-manager/uploads/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
