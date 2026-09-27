@@ -3,7 +3,7 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-  <a href="https://github.com/jerichd4c/ai-practices-cohen/tree/main/ai-trash-sorter">
+  <a href="https://github.com/jerichd4c/ai-practices/tree/main/ai-trash-sorter">
     <img src="https://raw.githubusercontent.com/jerichd4c/ReflexJDBC/main/python_logo.svg" alt="Logo" width="80" height="80">
   </a>
 </div>
@@ -73,11 +73,11 @@ Ensure you have Python installed. Then, install the necessary dependencies:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/jerichd4c/ai-practices-cohen.git
+   git clone https://github.com/jerichd4c/ai-practices.git
    ```
 2. Navigate to the project directory
    ```sh
-   cd ai-practices-cohen/ai-trash-sorter
+   cd ai-practices/ai-trash-sorter
    ```
 3. Install the necessary packages
    ```sh
